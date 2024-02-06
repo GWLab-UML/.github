@@ -12,4 +12,4 @@ We primarily use GitHub to store:
 * Lab protocols and instructions
 * Scripts, notebooks, etc. for processing data
 
-For more information about visit our [website](https://sarahgw.com/).
+For more information visit our [website](https://sarahgw.com/).
